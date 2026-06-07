@@ -1,0 +1,6 @@
+build/
+*.exe
+*.pdb
+*.lib
+.vs/
+*.obj
